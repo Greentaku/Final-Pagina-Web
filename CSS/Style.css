@@ -1,0 +1,260 @@
+#titulo {
+            font-family: Arial, sans-serif;
+            font-size: 35px;
+            text-align: center;
+            text-decoration: underline;
+            color: aqua;
+            text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.6);
+        }
+
+#subtitulo 
+        {
+            font-family: Arial, sans-serif;
+            font-size: 25px;
+            text-align: center;
+            text-decoration: underline;
+            color: aqua;
+            text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.6);
+        }
+      
+     #p {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            text-align: justify;
+            text-align: center;
+            line-height: 1.5;
+            font-weight: bold;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 255, 255, 0.6);
+        }
+
+#Imagen-Uno 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: static;
+        }
+
+#Imagen-Dos 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 1004px;
+            right: 8px
+        }
+
+#Imagen-Tres 
+        {
+           border: 5px solid black;
+           margin: 20px;
+           cursor: pointer; 
+           display: block;
+           margin: 0 auto;  
+        }
+
+#Imagen-Cuatro 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: static;
+        }
+
+#Imagen-Cinco 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 2311px;
+            right: 8px
+        }
+
+#Imagen-Seis 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: static;
+        }
+
+#Imagen-Siete 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 2781px;
+            right: 8px
+        }
+
+#Imagen-Ocho 
+        {
+            border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: static;
+        }
+
+#Imagen-Nueve 
+        {
+		  border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            display: flex;
+  			align-items: center;
+  			justify-content: space-between;
+        }
+
+#Imagen-Diez 
+        {
+           border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 4139px;
+            right: 8px
+        }
+
+#Imagen-Once 
+        {
+           border: 5px solid black;
+            margin: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 4509px;
+            right: 8px
+        }
+
+#Enlace-Uno 
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+            
+        }
+
+#Enlace-Dos
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+        }
+
+#Enlace-Tres
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+        }
+
+#Enlace-Cuatro
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+        }
+
+#Enlace-Cinco
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+		    text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+        }
+
+#Enlace-Seis
+        {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            color: White;
+		    text-shadow: 2px 2px 4px rgba(0, 50, 255, 2.2);
+        }
+
+#Video-Uno
+        {
+           display: block;
+           margin: 0 auto;
+           border: 5px solid black;
+           cursor: pointer;
+        }
+
+#Video-Dos
+        {
+           display: block;
+           margin: 0 auto;
+           border: 5px solid black;
+           cursor: pointer;
+        }
+
+#Video-Tres
+        {
+           display: block;
+           margin: 0 auto;
+           border: 5px solid black;
+           cursor: pointer;
+        }
+
+#Truman-Gif
+        {
+           display: block;
+           margin: 0 auto;
+           border: 5px solid black;
+           cursor: pointer;
+        }
+
+#Mi-Fondo
+        {
+         background-image:url(Fondo.jpg);
+         background-size: cover;
+         background-position: center;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-color: #f0f0f0;
+         margin: 0;
+         min-height: 100vh;
+        }
+
+#Fondo-Oscuro
+        {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+	    background-color: rgba(0, 0, 0, 0.5);
+	    z-index: -1;
+	    backdrop-filter: blur(10px);
+	    transition: background 0.5s, backdrop-filter 0.5s;
+        }
